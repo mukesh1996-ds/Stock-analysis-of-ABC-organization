@@ -41,4 +41,4 @@ All the above was the defult column i have added few columns such as
 
 ## My Report look something like this:
 
-![image]()
+![image](https://github.com/mukesh1996-ds/Stock-analysis-of-ABC-organization/blob/main/Images/Report%201.png)
