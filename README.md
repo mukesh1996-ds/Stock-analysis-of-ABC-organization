@@ -31,3 +31,14 @@ All the above was the defult column i have added few columns such as
 
 ![image](https://github.com/mukesh1996-ds/Stock-analysis-of-ABC-organization/blob/main/Images/Background.jpg)
 
+## Question 
+1. Based on the year which what was the height quantity of stock owned and what is the lowest quantity of stock owned.
+2. Based on the year what was the cost of opening and closing stocks.
+3. In which year the stock prices was high.
+4. What is the valume of stock per month.
+5. What is the average of opening and closing stock quantity based on year.
+6. What is the cost of stock opening and closing per month.
+
+## My Report look something like this:
+
+![image]()
