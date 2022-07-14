@@ -29,4 +29,5 @@ All the above was the defult column i have added few columns such as
 
 # Let's start developing the dashboards and the question for the reports are:
 
-[![Background image](Images\Background.jpg)]
+![image](https://github.com/mukesh1996-ds/Stock-analysis-of-ABC-organization/blob/main/Images/Background.jpg)
+
